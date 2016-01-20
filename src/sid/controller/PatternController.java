@@ -22,7 +22,7 @@ public class PatternController implements MouseListener {
 
 	/**
 	 * Constructor, sets game.
-	 *
+	 * 
 	 * @param game
 	 *            Game to be set.
 	 */

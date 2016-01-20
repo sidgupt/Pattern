@@ -7,4 +7,4 @@ package sid.model;
  */
 public enum UpdateAction {
 	NEW_GAME
-}
+} 

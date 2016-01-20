@@ -46,7 +46,7 @@ public class Field extends JLabel {
 	public void setNumber(int number, boolean userInput) {
 		setForeground(userInput ? Color.BLUE : Color.BLACK);
 		setText(number > 0 ? number + "" : "");
-	}
+	} 
 
 	/**
 	 * Returns x position in game.

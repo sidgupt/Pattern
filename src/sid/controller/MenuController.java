@@ -61,6 +61,6 @@ public class MenuController implements ActionListener {
 
 	private void about() {
 		JOptionPane.showMessageDialog(MenuPanel.getjRootPane(), PatternConstant.ABOUT_MESSAGE,
-				PatternConstant.ABOUT_WINDOW_TITLE, 1);
+				PatternConstant.ABOUT_WINDOW_TITLE, 1); 
 	}
 }

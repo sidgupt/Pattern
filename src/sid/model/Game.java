@@ -78,7 +78,7 @@ public class Game extends Observable {
 			}
 		}
 		int compare = ((x * x) / 2) - 2 * x + type/2;
-		while (count < compare) {
+		while (count < compare) { 
 			col = rand.nextInt(x);
 			row = rand.nextInt(x);
 			if (game[row][col] == 0) {

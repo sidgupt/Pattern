@@ -16,7 +16,7 @@ import sid.model.Game;
  *
  * @author Siddharth Gupta
  */
-
+ 
 @SuppressWarnings("serial")
 public class Pattern extends JFrame implements Observer {
 
