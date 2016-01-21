@@ -21,7 +21,7 @@ public class PatternController implements MouseListener {
 	private Game game; // Current Sudoku game.
 
 	/**
-	 * Constructor, sets game.
+	 * Constructor, sets game. 
 	 * 
 	 * @param game
 	 *            Game to be set.

@@ -1,5 +1,4 @@
 package sid.constant;
- 
 
 public class PatternConstant {
 	public static final String NEW = "New";
@@ -21,5 +20,5 @@ public class PatternConstant {
 	public static final String SOLVED_GAME = "Congratulations !! You solved the game.";
 	public static final String ABOUT_MESSAGE = "Use mouse left and right button to play the game." + "\n"
 			+ "Check game by going to menu Game->check" + "\n" + "Created by: Siddharth Gupta.";
-	public static final String ABOUT_WINDOW_TITLE = "About"; 
+	public static final String ABOUT_WINDOW_TITLE = "About";
 }

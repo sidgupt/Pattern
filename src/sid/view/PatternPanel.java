@@ -216,7 +216,7 @@ public class PatternPanel extends JPanel implements Observer {
 		int start = getStart() / 5;
 		int end = start + game.getType() / 5;
 		for (int y = start; y < end; y++) {
-			for (int x = start; x < end; x++) { 
+			for (int x = start; x < end; x++) {
 				panels[y][x].addMouseListener(patternController);
 			}
 		}
