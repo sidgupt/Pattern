@@ -1,5 +1,5 @@
 package sid.constant;
-
+ 
 
 public class PatternConstant {
 	public static final String NEW = "New";
